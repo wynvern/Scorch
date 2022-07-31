@@ -8,5 +8,5 @@ Here's the [link](https://discord.com/api/oauth2/authorize?client_id=10029738885
 
 ## 📃 To-do
 
-[] Fix slash commands upload in scGeneral.
-[] Fix intents and partials in config file.
+- [] Fix slash commands upload in scGeneral.
+- [] Fix intents and partials in config file.
