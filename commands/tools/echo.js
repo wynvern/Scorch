@@ -11,7 +11,7 @@ const { SlashCommandBuilder } = require('@discordjs/builders'),
 		.setDefaultMemberPermissions(PermissionFlagsBits.Administrator);
 
 module.exports = {
-	name: 'echo',
+	name: (data.name),
 	data: data,
 
 	async execute(interaction) {
