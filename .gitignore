@@ -1,0 +1,8 @@
+# Ignore library files
+
+node_modules
+
+# Configuration files
+
+.eslintrc.json
+.env
